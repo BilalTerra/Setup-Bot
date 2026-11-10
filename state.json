@@ -7,7 +7,9 @@
     "LINK-USDT|4H|LONG|1794052800000|1794009600000",
     "LINK-USDT|1H|SHORT|1794092400000|1794128400000",
     "SOL-USDT|1H|LONG|1793941200000|1793973600000",
-    "BNB-USDT|4H|LONG|1793750400000|1793822400000"
+    "BNB-USDT|4H|LONG|1793750400000|1793822400000",
+    "XCRCL-USDT|1H|LONG|1794207600000|1794240000000",
+    "SUI-USDT|1H|LONG|1794207600000|1794236400000"
   ],
   "offset": 0,
   "trades": [
@@ -35,6 +37,30 @@
       "tp2": 723.58,
       "status": "stop",
       "fertig": true
+    },
+    {
+      "id": "XCRCL-USDT|1H|LONG|1794207600000|1794240000000",
+      "inst": "XCRCL-USDT",
+      "tf": "1H",
+      "richtung": "LONG",
+      "ts": 1794315600000,
+      "level": 65.2136,
+      "stop": 64.6,
+      "tp1": 66.42,
+      "tp2": 69.8,
+      "status": "offen"
+    },
+    {
+      "id": "SUI-USDT|1H|LONG|1794207600000|1794236400000",
+      "inst": "SUI-USDT",
+      "tf": "1H",
+      "richtung": "LONG",
+      "ts": 1794315600000,
+      "level": 0.8138694,
+      "stop": 0.8064,
+      "tp1": 0.828555,
+      "tp2": 0.8697,
+      "status": "offen"
     }
   ]
 }
