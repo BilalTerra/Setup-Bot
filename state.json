@@ -13,7 +13,8 @@
     "ARB-USDT|1H|LONG|1794171600000|1794229200000",
     "TRX-USDT|4H|LONG|1793520000000|1793721600000",
     "LIT-USDT|1H|SHORT|1794736800000|1794823200000",
-    "XCRCL-USDT|1H|LONG|1794830400000|1794837600000"
+    "XCRCL-USDT|1H|LONG|1794830400000|1794837600000",
+    "GRAM-USDT|1H|LONG|1794927600000|1794934800000"
   ],
   "offset": 0,
   "trades": [
@@ -117,6 +118,18 @@
       "tp2": 59.84,
       "status": "stop",
       "fertig": true
+    },
+    {
+      "id": "GRAM-USDT|1H|LONG|1794927600000|1794934800000",
+      "inst": "GRAM-USDT",
+      "tf": "1H",
+      "richtung": "LONG",
+      "ts": 1795010400000,
+      "level": 1.017266,
+      "stop": 1.007,
+      "tp1": 1.03745,
+      "tp2": 1.094,
+      "status": "offen"
     }
   ]
 }
