@@ -130,7 +130,8 @@
       "stop": 1.007,
       "tp1": 1.03745,
       "tp2": 1.094,
-      "status": "offen"
+      "status": "stop",
+      "fertig": true
     },
     {
       "id": "HYPE-USDT|1H|LONG|1794834000000|1794866400000",
