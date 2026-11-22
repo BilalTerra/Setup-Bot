@@ -17,7 +17,8 @@
     "GRAM-USDT|1H|LONG|1794927600000|1794934800000",
     "HYPE-USDT|1H|LONG|1794834000000|1794866400000",
     "XNVDA-USDT|1H|LONG|1794927600000|1794956400000",
-    "OKB-USDT|1H|SHORT|1795215600000|1795230000000"
+    "OKB-USDT|1H|SHORT|1795215600000|1795230000000",
+    "RLUSD-USDT|1H|SHORT|1795312800000|1795363200000"
   ],
   "offset": 0,
   "trades": [
@@ -174,6 +175,18 @@
       "tp2": 73.01,
       "status": "stop",
       "fertig": true
+    },
+    {
+      "id": "RLUSD-USDT|1H|SHORT|1795312800000|1795363200000",
+      "inst": "RLUSD-USDT",
+      "tf": "1H",
+      "richtung": "SHORT",
+      "ts": 1795384800000,
+      "level": 1.0022583999999999,
+      "stop": 1.0024,
+      "tp1": 1.00198,
+      "tp2": 1.0012,
+      "status": "offen"
     }
   ]
 }
