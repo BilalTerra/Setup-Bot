@@ -57,7 +57,8 @@
       "stop": 64.6,
       "tp1": 66.42,
       "tp2": 69.8,
-      "status": "tp1"
+      "status": "tp1",
+      "fertig": true
     },
     {
       "id": "SUI-USDT|1H|LONG|1794207600000|1794236400000",
@@ -69,7 +70,8 @@
       "stop": 0.8064,
       "tp1": 0.828555,
       "tp2": 0.8697,
-      "status": "tp1"
+      "status": "tp1",
+      "fertig": true
     },
     {
       "id": "ARB-USDT|1H|LONG|1794171600000|1794229200000",
