@@ -18,7 +18,12 @@
     "HYPE-USDT|1H|LONG|1794834000000|1794866400000",
     "XNVDA-USDT|1H|LONG|1794927600000|1794956400000",
     "OKB-USDT|1H|SHORT|1795215600000|1795230000000",
-    "RLUSD-USDT|1H|SHORT|1795312800000|1795363200000"
+    "RLUSD-USDT|1H|SHORT|1795312800000|1795363200000",
+    "ETH-USDT|1H|SHORT|1795096800000|1795233600000",
+    "HYPE-USDT|1H|SHORT|1795111200000|1795233600000",
+    "OKB-USDT|1H|SHORT|1795093200000|1795230000000",
+    "TRX-USDT|4H|SHORT|1795075200000|1795233600000",
+    "SUI-USDT|4H|SHORT|1794945600000|1795233600000"
   ],
   "offset": 0,
   "trades": [
@@ -161,7 +166,8 @@
       "stop": 150.75,
       "tp1": 155.30349999999999,
       "tp2": 163.76,
-      "status": "tp1"
+      "status": "tp2",
+      "fertig": true
     },
     {
       "id": "OKB-USDT|1H|SHORT|1795215600000|1795230000000",
@@ -188,6 +194,66 @@
       "tp2": 1.0012,
       "status": "tp2",
       "fertig": true
+    },
+    {
+      "id": "ETH-USDT|1H|SHORT|1795096800000|1795233600000",
+      "inst": "ETH-USDT",
+      "tf": "1H",
+      "richtung": "SHORT",
+      "ts": 1795442400000,
+      "level": 1784.3438,
+      "stop": 1817.49,
+      "tp1": 1719.175,
+      "tp2": 1536.59,
+      "status": "offen"
+    },
+    {
+      "id": "HYPE-USDT|1H|SHORT|1795111200000|1795233600000",
+      "inst": "HYPE-USDT",
+      "tf": "1H",
+      "richtung": "SHORT",
+      "ts": 1795442400000,
+      "level": 68.56367,
+      "stop": 70.267,
+      "tp1": 65.21475,
+      "tp2": 55.832,
+      "status": "offen"
+    },
+    {
+      "id": "OKB-USDT|1H|SHORT|1795093200000|1795230000000",
+      "inst": "OKB-USDT",
+      "tf": "1H",
+      "richtung": "SHORT",
+      "ts": 1795442400000,
+      "level": 86.9015,
+      "stop": 88.76,
+      "tp1": 83.2475,
+      "tp2": 73.01,
+      "status": "offen"
+    },
+    {
+      "id": "TRX-USDT|4H|SHORT|1795075200000|1795233600000",
+      "inst": "TRX-USDT",
+      "tf": "4H",
+      "richtung": "SHORT",
+      "ts": 1795442400000,
+      "level": 0.31192055999999996,
+      "stop": 0.3137,
+      "tp1": 0.308422,
+      "tp2": 0.29862,
+      "status": "offen"
+    },
+    {
+      "id": "SUI-USDT|4H|SHORT|1794945600000|1795233600000",
+      "inst": "SUI-USDT",
+      "tf": "4H",
+      "richtung": "SHORT",
+      "ts": 1795442400000,
+      "level": 0.7258566,
+      "stop": 0.7443,
+      "tp1": 0.689595,
+      "tp2": 0.588,
+      "status": "offen"
     }
   ]
 }
