@@ -186,7 +186,8 @@
       "stop": 1.0024,
       "tp1": 1.00198,
       "tp2": 1.0012,
-      "status": "tp1"
+      "status": "tp2",
+      "fertig": true
     }
   ]
 }
