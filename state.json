@@ -306,7 +306,8 @@
       "stop": 34.15,
       "tp1": 30.93,
       "tp2": 24.95,
-      "status": "offen"
+      "status": "stop",
+      "fertig": true
     }
   ]
 }
