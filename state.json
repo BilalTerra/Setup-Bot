@@ -283,7 +283,8 @@
       "stop": 1.002,
       "tp1": 1.00158,
       "tp2": 1.0008,
-      "status": "tp1"
+      "status": "tp2",
+      "fertig": true
     },
     {
       "id": "SOL-USDT|4H|LONG|1795233600000|1795435200000",
@@ -320,7 +321,7 @@
       "stop": 0.6497,
       "tp1": 0.66482,
       "tp2": 0.6929,
-      "status": "offen"
+      "status": "tp1"
     }
   ]
 }
